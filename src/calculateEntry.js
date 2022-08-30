@@ -1,7 +1,7 @@
 const data = require('../data/zoo_data');
 
 function countEntrants(entrants) {
-  //Iniciando o Pojeto
+  // Iniciando o Pojeto
 }
 
 function calculateEntry(entrants) {
